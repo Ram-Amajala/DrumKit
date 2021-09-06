@@ -7,29 +7,34 @@ body {
 
 h1 {
   color: #3E00FF;
-  width: 70%;
-  font-size: 6rem;
-  text-shadow: 2px 0 #2bf931;
-  font-style: italic;
-  font-family: 'Allison', serif;
-  font-weight: 400;
-  margin: 70px auto;
+  width: 80%;
+  font-size: 7rem;
+  text-shadow: 3px 0 #2BF931;
+  font-weight: 500;
+  margin: 30px auto;
+}
+
+footer {
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 20px;
+  font-family: 'Indie Flower', sans-serif;
 }
 
 .container {
   background-color: inherit;
-  width: 80%;
+  width: 60%;
   margin: auto;
 }
 
 .btn {
   border: 4px solid #000000;
-  height: 125px;
-  width: 125px;
+  height: 150px;
+  width: 150px;
   margin: 20px;
   border-radius: 25px;
   font-family: Georgia;
-  color: #152D35;
+  color: #000000;
   font-size: 25px;
   font-weight: bold;
   padding: 10px 10px 10px 10px;
