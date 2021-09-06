@@ -1,5 +1,5 @@
 body {
-  background-color: #152D35;
+  background-color: #3db2;/*#152d35*/
   margin: 0;
   align-items: center;
   justify-content: center;
@@ -9,9 +9,8 @@ h1 {
   color: #3E00FF;
   width: 80%;
   font-size: 7rem;
-  font-family: serif;
-  text-shadow: 3px 0 #2BF931;
-  font-weight: 500;
+  text-shadow: 3px 0 #000000;
+  font-family: 'Orbitron', cursive;
   margin: 30px auto;
 }
 
@@ -66,10 +65,12 @@ footer {
 
 .v {
   background: url("images/tom1.png");
+    background-color: #ffffff ;
 }
 
 .b {
   background: url("images/tom2.png");
+    background-color: #ffffff ;
 }
 
 .n {
@@ -79,3 +80,4 @@ footer {
 .m {
   background: url("images/tom4.png");
 }
+
